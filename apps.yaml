@@ -1,0 +1,18 @@
+cloudstream3:
+  git: https://github.com/LagradOst/CloudStream-3
+  name: "Cloudstream-3"
+  description: |
+    Android app for streaming and downloading Movies, TV-Series and Anime.
+    <b>Features</b>
+
+    - AdFree, No ads whatsoever
+    - No tracking/analytics
+    - Bookmarks
+    - Download and stream movies, tv-shows and anime
+    - Chromecast
+
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories: 
+    - Internet
+
