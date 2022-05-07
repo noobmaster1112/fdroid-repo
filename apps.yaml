@@ -1,18 +1,45 @@
-cloudstream3:
-  git: https://github.com/LagradOst/CloudStream-3
-  name: "Cloudstream-3"
+notality:
+  git: https://github.com/xarantolus/notality
+  name: "Notality"
   description: |
-    Android app for streaming and downloading Movies, TV-Series and Anime.
+    Notality is a very simple note taking app. I mostly built it to learn how Flutter works, but it's functional and you can use it.
+
     <b>Features</b>
 
-    - AdFree, No ads whatsoever
-    - No tracking/analytics
-    - Bookmarks
-    - Download and stream movies, tv-shows and anime
-    - Chromecast
+    - Create, edit, delete and reorder notes
+    - Automatic dark/light mode depending on the system-wide setting
+    - Import/Export your notes to save them externally
+    - Localization for English and German
 
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
   categories: 
-    - Internet
+    - Writing
 
+
+rockit:
+  git: https://github.com/xarantolus/rockit
+  name: "Rock It!"
+  description: |
+    Rock It! helps you stay informed on all things space.
+    It displays upcoming rocket launches and current space news curated by <a href="https://thespacedevs.com/">The Space Devs</a>.
+
+    <b>Features</b>
+
+    - List upcoming launches and events (e.g. space station activity)
+    - Show launch/event details and a countdown (including the date and time in your local timezone)
+    - List latest space news articles
+    - Subscribe to launches or events to receive notifications before the start or when times are updated
+    - Search future events and launches
+    - No internet? No problem! The app caches offline content for a few days and updates it when connected to the internet
+
+    The app connects to the Launch Library and Spaceflight News API to get information about launches.
+    Additionality, it might connect to other hosts (e.g. YouTube) to receive video and article thumbnails.
+    Since none of these services are free software, it's labeled with "NonFreeNet".
+
+  categories: 
+    - Internet
+    - Science & Education
+
+  anti_features:
+    - NonFreeNet
