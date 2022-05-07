@@ -1,0 +1,9 @@
++ Migrated to material3 UI 
++ Added search bar on homepage
++ Added poster title option
++ Added Mal/Anilist sync for some anime sites
++ Added logcat 🐈 
++ Added providers
++ Fixed providers
++ Fixed AndroidTv issues
++ Fixed resume watching bug (will cause removal of watch history and backup will not help, continue watching and bookmarks will stay)

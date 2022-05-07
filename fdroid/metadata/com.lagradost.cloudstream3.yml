@@ -1,0 +1,13 @@
+AuthorName: LagradOst
+Categories:
+    - Internet
+CurrentVersion: 2.9.24
+CurrentVersionCode: 47
+Description: |
+    Android app for streaming and downloading Movies, TV-Series and Anime.
+IssueTracker: ""
+License: GPL-3.0
+Name: Cloudstream3
+SourceCode: https://github.com/LagradOst/CloudStream-3
+Summary: Android app for streaming and downloading Movies, TV-Series and Anime.
+WebSite: ""
