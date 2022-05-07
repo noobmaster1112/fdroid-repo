@@ -3,7 +3,11 @@
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
+| <a href="https://github.com/jmir1/aniyomi"><img src="fdroid/repo/icons/" alt="Aniyomi icon" width="36px" height="36px"></a> | [**Aniyomi**](https://github.com/jmir1/aniyomi) | Unofficial fork of Tachiyomi for anime | 0.12.3.6 (72) |
 | <a href="https://github.com/LagradOst/CloudStream-3"><img src="fdroid/repo/icons/" alt="Cloudstream3 icon" width="36px" height="36px"></a> | [**Cloudstream3**](https://github.com/LagradOst/CloudStream-3) | Android app for streaming and downloading Movies, TV-Series and Anime. | 2.9.24 (47) |
+| <a href="https://github.com/Killerpac/Kayuri"><img src="fdroid/repo/icons/net.sanic.Kayuri.8.png" alt="Kayuri icon" width="36px" height="36px"></a> | [**Kayuri**](https://github.com/Killerpac/Kayuri) | An Anime Watching App With Better player And Faster Servers | 1.2.0 (8) |
+| <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.tv.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.2.0 (4) |
+| <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.9.2 (4) |
 | <a href="https://github.com/xarantolus/notality"><img src="fdroid/repo/icons/io.github.xarantolus.notality.10.png" alt="Notality icon" width="36px" height="36px"></a> | [**Notality**](https://github.com/xarantolus/notality) | A very simple note taking app for Android | 1.8.1 (10) |
 | <a href="https://github.com/xarantolus/rockit"><img src="fdroid/repo/icons/" alt="Rock It! icon" width="36px" height="36px"></a> | [**Rock It!**](https://github.com/xarantolus/rockit) | Rock It! is an Android app that helps you stay informed on all things space | 1.5.0 (22) |
 <!-- end apps table -->
