@@ -7,7 +7,6 @@
 | <a href="https://github.com/LagradOst/CloudStream-3"><img src="fdroid/repo/icons/" alt="Cloudstream3 icon" width="36px" height="36px"></a> | [**Cloudstream3**](https://github.com/LagradOst/CloudStream-3) | Android app for streaming and downloading Movies, TV-Series and Anime. | 2.9.24 (47) |
 | <a href="https://github.com/Killerpac/Kayuri"><img src="fdroid/repo/icons/net.sanic.Kayuri.8.png" alt="Kayuri icon" width="36px" height="36px"></a> | [**Kayuri**](https://github.com/Killerpac/Kayuri) | An Anime Watching App With Better player And Faster Servers | 1.2.0 (8) |
 | <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.tv.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.2.0 (4) |
-| <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.9.2 (4) |
 <!-- end apps table -->
 
 
