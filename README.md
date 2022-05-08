@@ -33,4 +33,4 @@
 
 
 
-Credit [xarantolus](https://github.com/xarantolus/fdroid)
+### Credit:- [xarantolus](https://github.com/xarantolus/fdroid)
