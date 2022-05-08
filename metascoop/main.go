@@ -107,10 +107,10 @@ func main() {
 			func() {
 				defer fmt.Println("::endgroup::")
 
-				if release.GetPrerelease() {
-					log.Printf("Skipping prerelease %q", release.GetTagName())
-					return
-				}
+				//if release.GetPrerelease() {
+				//	log.Printf("Skipping prerelease %q", release.GetTagName())
+				//	return
+				//}
 				if release.GetDraft() {
 					log.Printf("Skipping draft %q", release.GetTagName())
 					return
