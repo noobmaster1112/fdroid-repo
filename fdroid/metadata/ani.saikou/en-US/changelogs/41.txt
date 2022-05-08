@@ -1,0 +1,20 @@
+### Literally the best Anime & Manga app for Android.
+
+<details>
+  <summary>Currently you can:</summary>
+
+- Watch Anime from **5** sources.
+- Read Manga from **6** sources.
+- Login with your Anilist account & get **recommendations** based on what you watched
+- Get complete info about Anime & Manga
+- Auto Update your Anilist after watching an episode.
+- & More!
+
+</details>
+
+## 1.1.6 Changes
+- Fixed Gogo VidStreaming Again with future proofing hopefully
+- Fixed More Crashes
+- Fixed empty Anime/Manga List Buttons
+- Fixed PiP mode setting showing for android version below 7
+- Fixed Video being unplayable after locking/switching screens
