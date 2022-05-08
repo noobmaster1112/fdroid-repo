@@ -1,3 +1,2 @@
 ## Commits
-- ad64cb3: might have fixed #1031 (LagradOst)
-- cb4ab7e: fixed bad io (LagradOst)
+- 6f05154: [Feature] Display language on github page site list. (#1038) (Jace) [#1038](https://github.com/LagradOst/CloudStream-3/pull/1038)
