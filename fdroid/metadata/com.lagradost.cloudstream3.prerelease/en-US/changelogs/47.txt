@@ -1,2 +1,2 @@
 ## Commits
-- 6f05154: [Feature] Display language on github page site list. (#1038) (Jace) [#1038](https://github.com/LagradOst/CloudStream-3/pull/1038)
+- 927d8ce: fixed hd setting (LagradOst)
