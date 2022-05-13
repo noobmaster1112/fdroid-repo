@@ -1,2 +1,2 @@
 ## Commits
-- d4d083b: tr translation (#951) (Oğuzhan) [#951](https://github.com/LagradOst/CloudStream-3/pull/951)
+- eb36315: fixed nicehttp (Blatzar)
