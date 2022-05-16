@@ -1,2 +1,2 @@
 ## Commits
-- 8d14046: fixed 2embed (Blatzar)
+- 670c613: small fix to test and m3u8 (LagradOst)
