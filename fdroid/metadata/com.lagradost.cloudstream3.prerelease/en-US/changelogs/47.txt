@@ -1,2 +1,3 @@
 ## Commits
-- 670c613: small fix to test and m3u8 (LagradOst)
+- f3e73b1: Indian Provider because monke is gone (#1059) (Shivam) [#1059](https://github.com/LagradOst/CloudStream-3/pull/1059)
+- 7cdb902: Added 3 Indonesian Provider (#1045) (Hexated) [#1045](https://github.com/LagradOst/CloudStream-3/pull/1045)
