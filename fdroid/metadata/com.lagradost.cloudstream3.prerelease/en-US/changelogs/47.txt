@@ -1,3 +1,5 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/34763d4b5eab34302e79a0d0f0f5ed10ec06e4cc))
+
 ## Commits
-- f3e73b1: Indian Provider because monke is gone (#1059) (Shivam) [#1059](https://github.com/LagradOst/CloudStream-3/pull/1059)
-- 7cdb902: Added 3 Indonesian Provider (#1045) (Hexated) [#1045](https://github.com/LagradOst/CloudStream-3/pull/1045)
+- b4b06b2: Fixed opening files from file manager :) (Blatzar)
