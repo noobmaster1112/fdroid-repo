@@ -1,5 +1,3 @@
-## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/34763d4b5eab34302e79a0d0f0f5ed10ec06e4cc))
-
 ## Commits
-- b4b06b2: Fixed opening files from file manager :) (Blatzar)
+- 2d0e75b: Added support for embedded subtitles (Blatzar)
+- 1918a16: Merge remote-tracking branch 'origin/master' (Blatzar)
