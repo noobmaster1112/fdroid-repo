@@ -1,2 +1,3 @@
 ## Commits
-- 022aebd: Fixed sub/dub preference applying inside info page (Blatzar)
+- 183dafc: [Bugfix] Better fullscreen poster resolution. (#1081) (Jace) [#1081](https://github.com/LagradOst/CloudStream-3/pull/1081)
+- 9813b82: fix duplicate quality on kdramahood (#1080) (Jace) [#1080](https://github.com/LagradOst/CloudStream-3/pull/1080)
