@@ -1,3 +1,2 @@
 ## Commits
-- 2d0e75b: Added support for embedded subtitles (Blatzar)
-- 1918a16: Merge remote-tracking branch 'origin/master' (Blatzar)
+- 022aebd: Fixed sub/dub preference applying inside info page (Blatzar)
