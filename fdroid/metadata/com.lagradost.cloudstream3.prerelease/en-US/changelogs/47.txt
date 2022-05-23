@@ -1,3 +1,2 @@
 ## Commits
-- 183dafc: [Bugfix] Better fullscreen poster resolution. (#1081) (Jace) [#1081](https://github.com/LagradOst/CloudStream-3/pull/1081)
-- 9813b82: fix duplicate quality on kdramahood (#1080) (Jace) [#1080](https://github.com/LagradOst/CloudStream-3/pull/1080)
+- 0af3c60: More Indonesia Provider (#1079) (Hexated) [#1079](https://github.com/LagradOst/CloudStream-3/pull/1079)
