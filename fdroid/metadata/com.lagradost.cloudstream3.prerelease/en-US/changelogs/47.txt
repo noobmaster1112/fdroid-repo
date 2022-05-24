@@ -1,2 +1,5 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/932eb451255e7057ecb22b5e8117b1dcf30b0652))
+
 ## Commits
-- 0af3c60: More Indonesia Provider (#1079) (Hexated) [#1079](https://github.com/LagradOst/CloudStream-3/pull/1079)
+- 1995ad5: Handle mainUrl with backslash (#1087) (Jace) [#1087](https://github.com/LagradOst/CloudStream-3/pull/1087)
