@@ -1,5 +1,5 @@
 ## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/932eb451255e7057ecb22b5e8117b1dcf30b0652))
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/bf4bd7f5e2422d1c1ce405a4f46975bb46666ff9))
 
 ## Commits
-- 1995ad5: Handle mainUrl with backslash (#1087) (Jace) [#1087](https://github.com/LagradOst/CloudStream-3/pull/1087)
+- 4fa60e6: fixes on mcloud/vidstream/bflix/9anime (#1091) (Stormunblessed) [#1091](https://github.com/LagradOst/CloudStream-3/pull/1091)
