@@ -1,2 +1,5 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/276cb78669963902a9417bd06884ab442be4d082))
+
 ## Commits
-- 509a240: fix layarkaca/gomunime/kuronime (#1092) (Hexated) [#1092](https://github.com/LagradOst/CloudStream-3/pull/1092)
+- 57128db: settings selectable in tv mode (LagradOst)
