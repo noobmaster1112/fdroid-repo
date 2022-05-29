@@ -1,8 +1,8 @@
 AuthorName: saikou-app
 Categories:
     - Internet
-CurrentVersion: 1.2.0.11
-CurrentVersionCode: 52
+CurrentVersion: 1.2.0.12
+CurrentVersionCode: 53
 Description: |
     An Android Anilist only client, which lets you stream & download Anime & Manga.
 IssueTracker: ""

@@ -1,5 +1,2 @@
-## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/276cb78669963902a9417bd06884ab442be4d082))
-
 ## Commits
-- 57128db: settings selectable in tv mode (LagradOst)
+- 4b18501: cache key (LagradOst)
