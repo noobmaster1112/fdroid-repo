@@ -1,2 +1,4 @@
 ## Commits
-- 4b18501: cache key (LagradOst)
+- fbf8a75: added subtitle encoding (LagradOst)
+- f3c004b: fixed streamingcommunity (Blatzar)
+- ab95818: Merge remote-tracking branch 'origin/master' (Blatzar)
