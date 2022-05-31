@@ -1,4 +1,5 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/c67eb095b3bb3046172e873dbc2e8ff99028971e))
+
 ## Commits
-- fbf8a75: added subtitle encoding (LagradOst)
-- f3c004b: fixed streamingcommunity (Blatzar)
-- ab95818: Merge remote-tracking branch 'origin/master' (Blatzar)
+- 0c6cf7a: VideoVard and WcoHelper changes (#1109) (Stormunblessed) [#1109](https://github.com/LagradOst/CloudStream-3/pull/1109)
