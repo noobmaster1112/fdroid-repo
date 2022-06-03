@@ -1,2 +1,2 @@
 ## Commits
-- cbe4476: Added two new italian Providers and five new extraxtors  (#1111) (antonydp) [#1111](https://github.com/LagradOst/CloudStream-3/pull/1111)
+- b7b5c54: bump (LagradOst)
