@@ -1,2 +1,2 @@
 ## Commits
-- b7b5c54: bump (LagradOst)
+- 622fdcf: added backbutton for settings (LagradOst)
