@@ -1,2 +1,2 @@
 ## Commits
-- 622fdcf: added backbutton for settings (LagradOst)
+- 97bee66: Spanish translation updated to version 2.9.24 (#1121) (Freddy Morán Jr) [#1121](https://github.com/LagradOst/CloudStream-3/pull/1121)
