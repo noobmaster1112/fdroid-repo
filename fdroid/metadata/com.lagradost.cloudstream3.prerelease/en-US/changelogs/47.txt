@@ -1,2 +1,2 @@
 ## Commits
-- 97bee66: Spanish translation updated to version 2.9.24 (#1121) (Freddy Morán Jr) [#1121](https://github.com/LagradOst/CloudStream-3/pull/1121)
+- 941faf7: wco changes (#1140) (Stormunblessed) [#1140](https://github.com/LagradOst/CloudStream-3/pull/1140)
