@@ -1,2 +1,3 @@
 ## Commits
-- 941faf7: wco changes (#1140) (Stormunblessed) [#1140](https://github.com/LagradOst/CloudStream-3/pull/1140)
+- aecca25: opensubtitles fixed create account url (LagradOst)
+- 05cf94c: Updated french translations (#1145) (Sarlay) [#1145](https://github.com/LagradOst/CloudStream-3/pull/1145)
