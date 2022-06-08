@@ -1,3 +1,2 @@
 ## Commits
-- aecca25: opensubtitles fixed create account url (LagradOst)
-- 05cf94c: Updated french translations (#1145) (Sarlay) [#1145](https://github.com/LagradOst/CloudStream-3/pull/1145)
+- e2d26a4: Updated Italian translation (#1149) (Davide) [#1149](https://github.com/LagradOst/CloudStream-3/pull/1149)
