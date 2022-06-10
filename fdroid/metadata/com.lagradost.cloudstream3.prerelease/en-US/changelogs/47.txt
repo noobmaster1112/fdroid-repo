@@ -1,2 +1,9 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/c479938d3e69a6b4e5732f0a63d31edf4fd17382))
+
 ## Commits
-- 6fe2742: Added keyboard shortcuts (O or NUMPAD_8) to open online subtitle searcher :) (Blatzar)
+- 162ce53: settings change + flashbang mode fixes (LagradOst)
+- f7a5b24: Merge remote-tracking branch 'origin/master' (LagradOst)
+- 35a3094: bump (LagradOst)
+- 44d6df2: Merge remote-tracking branch 'origin/master' (LagradOst)
+- 681cb95: fixed strings.xml (LagradOst)
