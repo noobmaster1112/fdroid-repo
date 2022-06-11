@@ -1,9 +1,6 @@
 ## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/c479938d3e69a6b4e5732f0a63d31edf4fd17382))
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/62e9f8518d1adf8c82ce3a32f512f0fd47fb5bbd))
 
 ## Commits
-- 162ce53: settings change + flashbang mode fixes (LagradOst)
-- f7a5b24: Merge remote-tracking branch 'origin/master' (LagradOst)
-- 35a3094: bump (LagradOst)
-- 44d6df2: Merge remote-tracking branch 'origin/master' (LagradOst)
-- 681cb95: fixed strings.xml (LagradOst)
+- b9c5a69: (ready to merge) Fixed altadefinizione search, added tags (#1159) (antonydp) [#1159](https://github.com/LagradOst/CloudStream-3/pull/1159)
+- 7153065: Simply added HDToday.cc (#1161) (Noel Jacob) [#1161](https://github.com/LagradOst/CloudStream-3/pull/1161)
