@@ -1,2 +1,2 @@
 ## Commits
-- 24e858d: Delete fastlane/metadata/android/en-US/images directory (Osten)
+- cde4dc1: Update Provider URL (Gogoanime, WatchAsian) (#1171) (Bharathi) [#1171](https://github.com/LagradOst/CloudStream-3/pull/1171)
