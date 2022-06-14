@@ -1,5 +1,2 @@
-## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/17e13867f87edca5736d9d43d2a1a5aed3c5fc4b))
-
 ## Commits
-- 9bfe8ad: Add Czech language (#1164) (Fjuro) [#1164](https://github.com/LagradOst/CloudStream-3/pull/1164)
+- 24e858d: Delete fastlane/metadata/android/en-US/images directory (Osten)
