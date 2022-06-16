@@ -1,2 +1,2 @@
 ## Commits
-- cde4dc1: Update Provider URL (Gogoanime, WatchAsian) (#1171) (Bharathi) [#1171](https://github.com/LagradOst/CloudStream-3/pull/1171)
+- 91a14da: Added trailers (LagradOst)
