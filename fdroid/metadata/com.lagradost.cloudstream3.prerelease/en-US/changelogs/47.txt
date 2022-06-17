@@ -1,2 +1,2 @@
 ## Commits
-- 91a14da: Added trailers (LagradOst)
+- 5efb07e: Add trailer to 3 italian providers (#1180) (antonydp) [#1180](https://github.com/LagradOst/CloudStream-3/pull/1180)
