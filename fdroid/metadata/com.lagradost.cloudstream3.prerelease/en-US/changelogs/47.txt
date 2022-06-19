@@ -1,2 +1,3 @@
 ## Commits
-- 8fc790a: added Kitsu posters (LagradOst)
+- f5545a1: Fixed inconsistent subtitle padding (exoplayer was wack) (Blatzar)
+- 52d81dc: Merge remote-tracking branch 'origin/master' (Blatzar)
