@@ -1,2 +1,3 @@
 ## Commits
-- 2241f82: Fixed back button on RTL layout (Blatzar)
+- d5ed5f8: not reload player on exit (LagradOst)
+- f5482a8: Merge remote-tracking branch 'origin/master' (LagradOst)
