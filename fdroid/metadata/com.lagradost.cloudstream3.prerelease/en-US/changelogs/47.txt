@@ -1,3 +1,2 @@
 ## Commits
-- f5545a1: Fixed inconsistent subtitle padding (exoplayer was wack) (Blatzar)
-- 52d81dc: Merge remote-tracking branch 'origin/master' (Blatzar)
+- 2241f82: Fixed back button on RTL layout (Blatzar)
