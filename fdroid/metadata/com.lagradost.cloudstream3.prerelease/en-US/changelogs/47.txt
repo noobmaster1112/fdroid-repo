@@ -1,3 +1,6 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/f1654c85adee22f62ce26cde29a8797362959377))
+
 ## Commits
-- d5ed5f8: not reload player on exit (LagradOst)
-- f5482a8: Merge remote-tracking branch 'origin/master' (LagradOst)
+- 1eb67ad: fixed #1170 - Next episode release date (LagradOst)
+- 1a54391: Merge remote-tracking branch 'origin/master' (LagradOst)
