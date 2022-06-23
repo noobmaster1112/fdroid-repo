@@ -1,3 +1,3 @@
 ## Commits
-- 81113ea: crash fixes (LagradOst)
-- f081793: Merge branch 'master' of https://github.com/LagradOst/CloudStream-3 (LagradOst)
+- 000cbfc: Unsplit gogo m3u8 to fix audio issues (Blatzar)
+- fc688f1: Merge remote-tracking branch 'origin/master' (Blatzar)
