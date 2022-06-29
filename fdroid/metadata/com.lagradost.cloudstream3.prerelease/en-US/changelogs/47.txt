@@ -1,5 +1,3 @@
-## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/7bf77cb40844157c1b614969f8bde307b6ab3413))
-
 ## Commits
-- 1a24e1f: Disabled Egy.best (their verification needs cracking) and FaselHD (cloudflare). Fixed HDMovie5 (Blatzar)
+- f7b23d6: added https://aniflix.pro (LagradOst)
+- 0c93b53: Merge remote-tracking branch 'origin/master' (LagradOst)
