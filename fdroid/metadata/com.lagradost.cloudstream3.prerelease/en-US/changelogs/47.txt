@@ -1,3 +1,5 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/d65291cac5320301c78434d22c5dfbcdd2369c49))
+
 ## Commits
-- 9482f5e: Fixed missing episodes in aniflix (Blatzar)
-- 973c468: Merge remote-tracking branch 'origin/master' (Blatzar)
+- 2103d29: Added home to Aniflix and new provider (#1229) (Stormunblessed) [#1229](https://github.com/LagradOst/CloudStream-3/pull/1229)
