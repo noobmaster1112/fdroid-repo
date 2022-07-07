@@ -1,5 +1,5 @@
 ## Chores
-- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/d65291cac5320301c78434d22c5dfbcdd2369c49))
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/92329bfc34592cf4260c9e44466fdc577c6dc921))
 
 ## Commits
-- 2103d29: Added home to Aniflix and new provider (#1229) (Stormunblessed) [#1229](https://github.com/LagradOst/CloudStream-3/pull/1229)
+- 0a1c8be: better translations (#1245) ([ alex ionuț ]) [#1245](https://github.com/LagradOst/CloudStream-3/pull/1245)
