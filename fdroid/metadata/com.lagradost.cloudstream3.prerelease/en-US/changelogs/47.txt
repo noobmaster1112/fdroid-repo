@@ -1,2 +1,2 @@
 ## Commits
-- 09e11c7: Fixed AllAnime homepage and searching (Blatzar)
+- d9fc8f9: Enabled Kawaiifu (Blatzar)
