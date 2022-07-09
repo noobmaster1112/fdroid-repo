@@ -1,2 +1,6 @@
+## Chores
+- **docs**: update list of sites ([GitHub Actions](https://github.com/LagradOst/CloudStream-3/commit/01cb3040e3346991bf0d3fd7392e6959501f9150))
+
 ## Commits
-- d9fc8f9: Enabled Kawaiifu (Blatzar)
+- 8964d3b: Removed DreamSub provider (#1256) (Davide) [#1256](https://github.com/LagradOst/CloudStream-3/pull/1256)
+- 3457c04: Updated Italian translation (#1257) (Davide) [#1257](https://github.com/LagradOst/CloudStream-3/pull/1257)
