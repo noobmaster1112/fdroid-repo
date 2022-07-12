@@ -1,2 +1,2 @@
 ## Commits
-- a1f31da: Add hearing impaired indicator from opensubtitles. (#1268) (Jace) [#1268](https://github.com/LagradOst/CloudStream-3/pull/1268)
+- ff7b875: Added Brazilian Portuguese language (#1274) (rbrmafort) [#1274](https://github.com/LagradOst/CloudStream-3/pull/1274)
