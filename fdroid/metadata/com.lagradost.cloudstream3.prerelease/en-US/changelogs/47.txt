@@ -1,2 +1,2 @@
 ## Commits
-- ff7b875: Added Brazilian Portuguese language (#1274) (rbrmafort) [#1274](https://github.com/LagradOst/CloudStream-3/pull/1274)
+- cc7bf85: fixes and new provider (#1262) (Stormunblessed) [#1262](https://github.com/LagradOst/CloudStream-3/pull/1262)
