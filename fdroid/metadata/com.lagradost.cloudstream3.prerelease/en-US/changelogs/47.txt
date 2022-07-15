@@ -1,3 +1,2 @@
 ## Commits
-- 28bb933: Olgply fixes (Blatzar)
-- 9360e90: Merge branch 'master' of https://github.com/LagradOst/CloudStream-3 (Blatzar)
+- 6903d3a: Fixed AsianLoad and removed AsiaFlix. Use AsianLoad instead, they have the same links. (Blatzar)
