@@ -37,3 +37,11 @@ aniyomi:
     Unofficial fork of Tachiyomi for anime
   categories: 
     - Internet
+    
+aniyomi-preview:
+  git: https://github.com/jmir1/aniyomi-preview
+  name: "Aniyomi-preview"
+  description: |
+    Unofficial fork of Tachiyomi for anime
+  categories: 
+    - Internet
