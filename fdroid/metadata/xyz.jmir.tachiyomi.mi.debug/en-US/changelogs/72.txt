@@ -1,0 +1,75 @@
+### Commits
+
+https://github.com/jmir1/aniyomi/compare/0ad65931e...6dd72b3d1
+
+- Add link to privacy policy (@arkon)
+- Update to Kotlin 1.6.10 (@arkon)
+- Merge remote-tracking branch 'upstream/master' (@jmir1)
+- Use elevated overlay on reader menu (#6347) (@ivaniskandar)
+- Update dependencies (@arkon)
+- Workaround cleanup (#6350) (@ivaniskandar)
+- Add option for library update only update completely read manga (#6323) (@Riztard)
+- Combine global update item restrictions (@arkon)
+- Refactor dependant preference visibility flows (@arkon)
+- Hide irrelevant settings if global update isn't enabled (@arkon)
+- [skip ci] fix thread locking workflow to actually be daily (@arkon)
+- [skip ci] update workflow actions (@arkon)
+- Remove library update order setting (@arkon)
+- Address some IDE warnings (@arkon)
+- Adjust global update preference wording and visibility (@arkon)
+- Action toolbar adjustments (#6353) (@ivaniskandar)
+- Add Better Extension Search (#6359) (@FourTOne5)
+- Better Upload Date to not have a single blank upload date. (#6358) (@FourTOne5)
+- Update some wording in Delete Chapters preference. (#6365) (@FourTOne5)
+- Fix #6366 (#6372) (@FourTOne5)
+- TachiyomiCoordinatorLayout: Remove app bar lift mechanism for view pager (#6379) (@ivaniskandar)
+- Fix #6341 (#6383) (@FourTOne5)
+- Fix readded chapters polluting 'Updates' tab. (#6377) (@FourTOne5)
+- Fix Global Search ignoring incognito mode when setting last used source. (#6374) (@datreesezcup)
+- Handle potentially missing sources list in extensions JSON (@arkon)
+- Avoid crash on Samsung devices on Android 12 (@arkon)
+- Update dependencies (@arkon)
+- Rename theme color value files so they are not scattered (#6384) (@FourTOne5)
+- Rename night theme color files too (@arkon)
+- Don't recompute constant device info (@arkon)
+- Avoid unnecessary string creation when sorting (@arkon)
+- Case insensitive sort in extension list. (#6375) (@FourTOne5)
+- Truncate MAL search queries to first 64 characters (closes #6314) (@arkon)
+- Fix incorrect locale name casing in extension details (fixes #6391) (@arkon)
+- Use animation to hide/show fab (#6385) (@ivaniskandar)
+- Update "Library updates restrictions" wording (#6371) (@Riztard)
+- Reduce redundancy in some preference declarations (@arkon)
+- Fix crash for bound intListPreferences (@arkon)
+- Actually Fix #6341 (#6392) (@FourTOne5)
+- Fix some crashes (@arkon)
+- Update wording of `pref_remove_after_marked_as_read` (#6418) (@FourTOne5)
+- Fix Crash while trying to search in Settings (#6397) (@FourTOne5)
+- Update analytics dependencies (@arkon)
+- Swallow observable errors instead of crashing (@arkon)
+- Update versions and about libraries plugins (@arkon)
+- Add link to troubleshooting guide in library update error log file (@arkon)
+- Move preference extension functions to utils (@arkon)
+- Remove explicit option to store downloads in app data folder (@arkon)
+- Remove unused Nsfw annotation (@arkon)
+- Add AppInfo functions to replace BuildConfig usages in extensions (@arkon)
+- Fixes descriptive notification message for errors (#6413) (@MohitMandalia)
+- Add compress to CBZ on download (#6360) (@Seishirou101)
+- Weblate translations (#6352) (@j2ghz)
+- Handle renaming existing downloaded CBZ chapters on update (@arkon)
+- Add QuickJS dependency to eventually replace Duktape (@arkon)
+- Fix some crashes (@arkon)
+- Avoid crashes in tracker interceptor errors (@arkon)
+- Custom Cloudflare failure exception to avoid user-facing "java.lang.Exception" text (@arkon)
+- Merge remote-tracking branch 'upstream/master' (@jmir1)
+- fix crash in ReaderActivity (@jmir1)
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 2da3122ec86e98cf7e4bfbb5ee16dd3d29485fe00e34c2f40da5bc140b6e5ebd
+| arm64-v8a | 79916accca54fd02f9f12c6914f9ed015b663ad28b81ba20894d619c86cdaaa5
+| armeabi-v7a | 58e274af524fe4c933fcd7c0830c3226f2de749266abc888892e9f5dbc8f5609
+| x86 | adbc691e5f8483036525172f2d79143e0b54cc9cedbf46eba155cd612f5a38dc |
