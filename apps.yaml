@@ -6,14 +6,6 @@ saikou:
   categories: 
     - Internet
 
-cloudstream3:
-  git: https://github.com/LagradOst/CloudStream-3
-  name: "Cloudstream3"
-  description: |
-    Android app for streaming and downloading Movies, TV-Series and Anime.   
-  categories:
-    - Internet
-
 kayuri:
   git: https://github.com/Killerpac/Kayuri
   name: "Kayuri"
