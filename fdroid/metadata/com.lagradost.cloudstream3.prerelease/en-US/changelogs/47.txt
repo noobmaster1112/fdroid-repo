@@ -1,2 +1,2 @@
 ## Commits
-- 6903d3a: Fixed AsianLoad and removed AsiaFlix. Use AsianLoad instead, they have the same links. (Blatzar)
+- 524d071: play any stream & a bit of work on invideoplayer episodes & no links found last error (LagradOst)
