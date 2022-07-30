@@ -37,3 +37,11 @@ aniyomi-preview:
     Unofficial fork of Tachiyomi for anime
   categories: 
     - Internet
+
+kazahana:
+  git: https://github.com/yukino-org/kazahana
+  name: "Kazahana"
+  description: |
+    An extension-based Anime and Manga client.
+  categories: 
+    - Internet
