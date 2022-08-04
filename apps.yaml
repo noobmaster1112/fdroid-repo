@@ -45,3 +45,11 @@ kazahana:
     An extension-based Anime and Manga client.
   categories: 
     - Internet
+
+Cloudstream3:
+  git: https://github.com/rereleased/release
+  name: "Cloudstream3"
+  description: |
+    Stream and download Movies, TV-Series and Anime.
+  categories: 
+    - Internet
