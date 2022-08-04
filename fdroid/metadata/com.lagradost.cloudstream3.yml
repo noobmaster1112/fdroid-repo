@@ -1,12 +1,13 @@
-AuthorName: LagradOst
+AuthorName: rereleased
 Categories:
     - Internet
-CurrentVersion: 2.10.28
-CurrentVersionCode: 48
-Description: "Android app for streaming and downloading Movies, TV-Series and Anime.   \n"
+CurrentVersion: 3.0.2
+CurrentVersionCode: 50
+Description: |
+    Stream and download Movies, TV-Series and Anime.
 IssueTracker: ""
 License: GPL-3.0
 Name: Cloudstream3
-SourceCode: https://github.com/LagradOst/CloudStream-3
+SourceCode: https://github.com/rereleased/release
 Summary: Android app for streaming and downloading Movies, TV-Series and Anime.
 WebSite: ""
