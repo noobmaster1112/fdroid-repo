@@ -3,12 +3,12 @@
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/jmir1/aniyomi"><img src="fdroid/repo/icons/" alt="Aniyomi icon" width="36px" height="36px"></a> | [**Aniyomi**](https://github.com/jmir1/aniyomi) | Unofficial fork of Tachiyomi for anime | 0.12.3.6 (72) |
-| <a href="https://github.com/jmir1/aniyomi-preview"><img src="fdroid/repo/icons/" alt="Aniyomi-preview icon" width="36px" height="36px"></a> | [**Aniyomi-preview**](https://github.com/jmir1/aniyomi-preview) |  | 0.12.3.5-4488 (72) |
+| <a href="https://github.com/jmir1/aniyomi"><img src="fdroid/repo/icons/" alt="Aniyomi icon" width="36px" height="36px"></a> | [**Aniyomi**](https://github.com/jmir1/aniyomi) | Unofficial fork of Tachiyomi for anime | 0.12.3.7 (72) |
+| <a href="https://github.com/jmir1/aniyomi-preview"><img src="fdroid/repo/icons/" alt="Aniyomi-preview icon" width="36px" height="36px"></a> | [**Aniyomi-preview**](https://github.com/jmir1/aniyomi-preview) |  | 0.12.3.5-4492 (72) |
 | <a href="https://github.com/rereleased/release"><img src="fdroid/repo/icons/" alt="Cloudstream3 icon" width="36px" height="36px"></a> | [**Cloudstream3**](https://github.com/rereleased/release) | Android app for streaming and downloading Movies, TV-Series and Anime. | 3.1.2 (51) |
 | <a href="https://github.com/Killerpac/Kayuri"><img src="fdroid/repo/icons/net.sanic.Kayuri.8.png" alt="Kayuri icon" width="36px" height="36px"></a> | [**Kayuri**](https://github.com/Killerpac/Kayuri) | An Anime Watching App With Better player And Faster Servers | 1.2.0 (8) |
 | <a href="https://github.com/Killerpac/Kayuri"><img src="fdroid/repo/icons/net.xblacky.animexstream.8.png" alt="Kayuri icon" width="36px" height="36px"></a> | [**Kayuri**](https://github.com/Killerpac/Kayuri) | An Anime Watching App With Better player And Faster Servers | 0.3.0 (8) |
-| <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.tv.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.2.0 (4) |
+| <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.tv.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.2.1 (4) |
 | <a href="https://github.com/deceptions/no"><img src="fdroid/repo/icons/com.deceptions.no.4.png" alt="Kuro icon" width="36px" height="36px"></a> | [**Kuro**](https://github.com/deceptions/no) |  | 1.9.2 (4) |
 | <a href="https://github.com/saikou-app/saikou"><img src="fdroid/repo/icons/ani.saikou.beta.58.png" alt="Saikou icon" width="36px" height="36px"></a> | [**Saikou**](https://github.com/saikou-app/saikou) | An Android Anilist only client, which lets you stream &amp; download Anime &amp; Manga. | 1.2.0.17 (58) |
 | <a href="https://github.com/saikou-app/saikou"><img src="fdroid/repo/icons/ani.saikou.53.png" alt="Saikou icon" width="36px" height="36px"></a> | [**Saikou**](https://github.com/saikou-app/saikou) | An Android Anilist only client, which lets you stream &amp; download Anime &amp; Manga. | 1.2.0.12 (53) |

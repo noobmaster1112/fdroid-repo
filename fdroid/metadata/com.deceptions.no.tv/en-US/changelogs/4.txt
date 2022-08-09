@@ -1,2 +1,1 @@
-+ Phone only: Added seek preview (togglable in player settings)
-+ Fixed Vidstream (Gogo) extractor which translates to less 'no links found'
++ Fixed crashing on android 8.
