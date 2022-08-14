@@ -21,6 +21,8 @@ elif [ $EXIT_CODE -eq 0 ]; then
     # Exit code 0 means that we can commit everything & push
 
     echo "This means that we now have changes we should push"
+    
+    rm -rf fdroid/archive
 
     git config --global user.name 'github-actions'
     git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
