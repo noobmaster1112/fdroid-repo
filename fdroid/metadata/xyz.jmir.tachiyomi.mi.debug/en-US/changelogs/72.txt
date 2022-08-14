@@ -1,0 +1,16 @@
+### Commits
+
+https://github.com/jmir1/aniyomi/compare/81d158a86...a668832d6
+
+- fix toolbars (@jmir1)
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 6f7cc4dc59c6f23ba700410215901bcbf38c0c6b387f4a5efc680dd404ea80a7
+| arm64-v8a | 289c936d97fe7763a9dabc006b294836510ddda9eda9bafbe104a17df54bc2e2
+| armeabi-v7a | 7a03e1e7844c15368911297b6028dda2a50bf2499466c4b37ddcdebe63e78844
+| x86 | 25f160e4c71b5035ac1c5d156431e1470c21c5f7172b333c6b655cd69d478c14 |

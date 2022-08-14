@@ -1,0 +1,13 @@
+AuthorName: deceptions
+Categories:
+    - Internet
+CurrentVersion: 1.2.2
+CurrentVersionCode: 4
+Description: |
+    Just another gogoscraper, based on the leaked shiro source code
+IssueTracker: ""
+License: MIT
+Name: Kuro
+SourceCode: https://github.com/deceptions/no
+Summary: ""
+WebSite: ""
