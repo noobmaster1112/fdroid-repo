@@ -1,2 +1,3 @@
-+ New random home page UI
-+ More bugfixes
++ Fixed buggy animations
++ Fixed two player crashes
++ Layout fixes

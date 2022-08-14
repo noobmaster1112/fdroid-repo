@@ -1,7 +1,7 @@
 AuthorName: deceptions
 Categories:
     - Internet
-CurrentVersion: 1.8.2
+CurrentVersion: 1.9.2
 CurrentVersionCode: 4
 Description: |
     Just another gogoscraper, based on the leaked shiro source code

@@ -1,8 +1,8 @@
 ### Commits
 
-https://github.com/jmir1/aniyomi/compare/81d158a86...a668832d6
+https://github.com/jmir1/aniyomi/compare/98b7e1dbebb9460a7a036f3c738772be9121b6fa...d8f9ea7e1f39759d84dcd567f5f9e03deb69bec9
 
-- fix toolbars (@jmir1)
+- hotfix for preview release (@jmir1)
 
 ---
 
@@ -10,7 +10,7 @@ https://github.com/jmir1/aniyomi/compare/81d158a86...a668832d6
 
 | Variant | SHA-256 |
 | ------- | ------- |
-| Universal | 6f7cc4dc59c6f23ba700410215901bcbf38c0c6b387f4a5efc680dd404ea80a7
-| arm64-v8a | 289c936d97fe7763a9dabc006b294836510ddda9eda9bafbe104a17df54bc2e2
-| armeabi-v7a | 7a03e1e7844c15368911297b6028dda2a50bf2499466c4b37ddcdebe63e78844
-| x86 | 25f160e4c71b5035ac1c5d156431e1470c21c5f7172b333c6b655cd69d478c14 |
+| Universal | 0d386b8d762826db231d118e968e798a08018ac780840ccca7da14207ecebfe8
+| arm64-v8a | af013f92a69b2a0c743497b31caac0e14f31b7dc828bae03859375c4d55457b9
+| armeabi-v7a | fba6c363251d5e6899324d35741704671220b91290ad55c614dcad09bcd89c97
+| x86 | 10ee29a1d2d18890e94ff4154be63c7cc0b87e8182ed2ffc1f487f5bab323a44 |
