@@ -1,3 +1,0 @@
-+ Fixed buggy animations
-+ Fixed two player crashes
-+ Layout fixes

@@ -1,7 +1,0 @@
-# 1.2.0.10
-
-- Fix VizCloud
-- Fix LTR & RTL being opposite in Direction Icon
-- Fix Filler Episodes Not Showing up
-- Fix Dub getting auto selected
-- Fix Many Crashes

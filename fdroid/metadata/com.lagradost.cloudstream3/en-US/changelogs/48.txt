@@ -1,6 +1,0 @@
-+ Added opensubtitles (needs login)
-+ Added subtitle encoding
-+ Organized settings
-+ Provider fixes
-+ Translation fixes
-+ Bug fixes
