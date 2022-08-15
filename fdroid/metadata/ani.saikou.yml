@@ -1,0 +1,13 @@
+AuthorName: saikou-app
+Categories:
+    - Internet
+CurrentVersion: 1.2.0.12
+CurrentVersionCode: 53
+Description: |
+    An Android Anilist only client, which lets you stream & download Anime & Manga.
+IssueTracker: ""
+License: GPL-3.0
+Name: Saikou
+SourceCode: https://github.com/saikou-app/saikou
+Summary: An Android Anilist only client, which lets you stream & download Anime & Manga.
+WebSite: ""

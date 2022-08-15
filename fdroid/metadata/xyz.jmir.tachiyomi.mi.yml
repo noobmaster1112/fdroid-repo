@@ -1,0 +1,13 @@
+AuthorName: jmir1
+Categories:
+    - Internet
+CurrentVersion: 0.12.3.7
+CurrentVersionCode: 72
+Description: |
+    Unofficial fork of Tachiyomi for anime
+IssueTracker: ""
+License: Apache-2.0
+Name: Aniyomi
+SourceCode: https://github.com/jmir1/aniyomi
+Summary: Unofficial fork of Tachiyomi for anime
+WebSite: ""

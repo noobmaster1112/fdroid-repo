@@ -4,7 +4,7 @@
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
 | <a href="https://github.com/jmir1/aniyomi"><img src="fdroid/repo/icons/" alt="Aniyomi icon" width="36px" height="36px"></a> | [**Aniyomi**](https://github.com/jmir1/aniyomi) | Unofficial fork of Tachiyomi for anime | 0.12.3.7 (72) |
-| <a href="https://github.com/jmir1/aniyomi-preview"><img src="fdroid/repo/icons/" alt="Aniyomi-preview icon" width="36px" height="36px"></a> | [**Aniyomi-preview**](https://github.com/jmir1/aniyomi-preview) |  | 0.12.3.7-4514 (72) |
+| <a href="https://github.com/jmir1/aniyomi-preview"><img src="fdroid/repo/icons/" alt="Aniyomi-preview icon" width="36px" height="36px"></a> | [**Aniyomi-preview**](https://github.com/jmir1/aniyomi-preview) |  | 0.12.3.5-4492 (72) |
 | <a href="https://github.com/Jacekun/CloudStream-3XXX"><img src="fdroid/repo/icons/" alt="Cloudstream-3xxx icon" width="36px" height="36px"></a> | [**Cloudstream-3xxx**](https://github.com/Jacekun/CloudStream-3XXX) |  | 3.0.1-PRE (1607) |
 | <a href="https://github.com/Jacekun/CloudStream-3XXX"><img src="fdroid/repo/icons/" alt="Cloudstream-3xxx icon" width="36px" height="36px"></a> | [**Cloudstream-3xxx**](https://github.com/Jacekun/CloudStream-3XXX) |  | 3.0.1 (1607) |
 | <a href="https://github.com/rereleased/release"><img src="fdroid/repo/icons/" alt="Cloudstream3 icon" width="36px" height="36px"></a> | [**Cloudstream3**](https://github.com/rereleased/release) |  | 3.1.2 (51) |

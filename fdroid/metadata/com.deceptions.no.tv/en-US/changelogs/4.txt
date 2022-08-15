@@ -1,0 +1,1 @@
++ Fixed crashing on android 8.

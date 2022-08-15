@@ -1,0 +1,19 @@
+### Commits
+
+https://github.com/jmir1/aniyomi/compare/6dd72b3d1...81d158a86
+
+- fix another crash in PlayerActivity (@jmir1)
+- fix crash in ReaderActivity (#6439) (@jmir1)
+- Merge remote-tracking branch 'upstream/master' (@jmir1)
+- fix some `SimpleCache` issues (@jmir1)
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | be5592acadadf0b9a7c34b470b103525bfba2e1d27aa2ebdc8ef471ed0f2f93c
+| arm64-v8a | 83bf5ff0d4c72d175675e789a9d9ab42cf5509ab2c95547bdebd3d5e0245228d
+| armeabi-v7a | fb482c7cdcc1e2cfcfd16f2d20f64a4e810b6e3ea5e26f40ea8edb6531b88808
+| x86 | 9319ea397c7b549f279213b58c8027dd9c656613f4edabaa8e8a37dea9e13570 |
