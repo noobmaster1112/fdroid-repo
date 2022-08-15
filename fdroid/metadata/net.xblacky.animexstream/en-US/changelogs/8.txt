@@ -1,9 +1,0 @@
-<h2 align="center"><b>Initial Release</b></h2>
-
-* Added Google Servers
-* Added Settings
-* Added Manual Dark Mode Toogle
-* Added PiP Mode Toogle
-
-# Note
-You Might Need To uninstall the previous Version Of the app in Order To install this Due To different Signatures
