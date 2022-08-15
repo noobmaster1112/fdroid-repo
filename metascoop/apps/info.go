@@ -58,7 +58,7 @@ func ListAllReleases(githubClient *github.Client, appRepoAuthor, appRepoName str
 	for {
 		rels, _, ierr := githubClient.Repositories.ListReleases(context.Background(), appRepoAuthor, appRepoName, &github.ListOptions{
 			Page:    currentPage,
-			PerPage: 2,
+			PerPage: 10,
 		})
 		if ierr != nil || len(rels) == 0 {
 			err = ierr
