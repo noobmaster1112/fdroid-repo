@@ -34,11 +34,19 @@ jobs:
           echo "${{ secrets.KEYSTORE_P12 }}" | base64 -d - > fdroid/keystore.p12
           echo "${{ secrets.CONFIG_YML }}" | base64 -d - > fdroid/config.yml
 
-      - uses: actions/setup-go@v2
-        name: Set up Go
+      #- uses: actions/setup-go@v2
+        #name: Set up Go
+        #with:
+          #go-version: '^1.17.0' 
+      
+      - uses: actions/setup-python@v4
         with:
-          go-version: '^1.17.0' 
-        
+          python-version: '3.9'
+
+      - uses: BSFishy/pip-action@v1
+        with:
+          requirements: '../../requirements.txt'
+
       - name: Run update script
         run: bash update.sh 2>&1
         env:

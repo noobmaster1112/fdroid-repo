@@ -1,13 +1,16 @@
 #!/bin/bash
 
-cd metascoop
-echo "::group::Building metascoop executable"
-go build -o metascoop
-echo "::endgroup::"
+#cd metascoop
+#echo "::group::Building metascoop executable"
+#go build -o metascoop
+#echo "::endgroup::"
 
-./metascoop -ap=../apps.yaml -rd=../fdroid/repo -pat="$GH_ACCESS_TOKEN" $1
+#./metascoop -ap=../apps.yaml -rd=../fdroid/repo -pat="$GH_ACCESS_TOKEN" $1
+
+python3 main.py "$CONFIG_YML" "$KEYSTORE_P12"
+
 EXIT_CODE=$?
-cd ..
+#cd ..
 
 echo "Scoop had an exit code of $EXIT_CODE"
 
