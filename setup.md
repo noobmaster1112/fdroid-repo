@@ -32,7 +32,7 @@ When building/releasing a new version of your app, you need to make sure that yo
     Edit the generated `fdroid/config.yml`. The comments will tell you a lot, but make sure the `repo_url` looks something like this (it should include your username instead of `xarantolus`):
 
     ```yml
-    repo_url: https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo
+    repo_url: https://raw.githubusercontent.com/noobmaster1112/fdroid/main/fdroid/repo
     ```
 
     You should also set `archive_older` to `0` to disable the archive:
@@ -63,45 +63,23 @@ That should be it. You can now also generate a new QR code for your repo using o
 Now you can edit the `apps.yaml` file to include a new app. Usually you just need to input the GitHub link and everything should work:
 
 ```yml
-notality:
-  git: https://github.com/xarantolus/notality
-  name: "Notality"
+appname:
+  git: <repourl>
+  name: "appname"
   description: |
-    Notality is a very simple note taking app. I mostly built it to learn how Flutter works, but it's functional and you can use it.
-
+    App description
     <b>Features</b>
 
-    - Create, edit, delete and reorder notes
-    - Automatic dark/light mode depending on the system-wide setting
-    - Localization for English and German
+    - Feature 1
+    - Feature 2
 
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
   categories: 
-    - Writing
-
-another_app:
-  git: https://github.com/xarantolus/myotherapp
+    - category 1
 ```
 
 If the repository has APK releases, they should be imported into this repo the next time GitHub Actions run.
-
-### Metadata and screenshots
-Metadata can be added in two places: the `apps.yaml` file and the app repositories.
-
-#### Metadata file
-**Description**: As described in [Add a new app](#add-a-new-app), you can set a git URL and a description in the `apps.yaml` file
-
-**Categories**: A list of categories, preferably one of the [categories already listed in the official repo](https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories)
-
-#### Metadata from the repository
-**Screenshots**: This tool will make any file from the git repository for which the path contains `screenshot` available as screenshot. Basically, if you run `find .  -type f | grep -i screenshot` in your app repo you should find all files that will be used.
-
-**Changelog**: To display a "what's new" changelog in F-Droid, you just need to fill out the body/text of the GitHub release.
-
-**License**: The License `spdx_id` given by GitHub. Make sure GitHub recognizes the license type of your app. 
-
-**Tag line**: The tag line of the app shown in F-Droid is the same text as the repository description on GitHub.
 
 
 ### Repository URL
@@ -109,14 +87,14 @@ When you link to your repository, you can also add the fingerprint to the URL.
 To get the fingerprint, you need to look at the `fdroid` command output (or search for the following lines in GitHub Actions):
 
     2021-10-11 06:01:21,726 INFO: Creating signed index with this key (SHA256):
-    2021-10-11 06:01:21,726 INFO: 08 08 98 AE 43 09 AE CE B5 89 15 E4 3A 4B 7C 4A 3E 2C DA 40 C9 17 38 E2 C0 2F 58 33 9A B2 FB D7
+    2021-10-11 06:01:21,726 INFO: 
 
 Just remove all spaces from after "INFO" in the second line and you'll end up with your fingerprint:
 
-    080898AE4309AECEB58915E43A4B7C4A3E2CDA40C91738E2C02F58339AB2FBD7
+    30291C187F8C3B57B9E56C925413CDBA9627F9E4D315951A496CA1CC112FB4BF
 
 Now add it to your repo URL (add a `?fingerprint=`, then your key): 
 
-    https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo?fingerprint=080898AE4309AECEB58915E43A4B7C4A3E2CDA40C91738E2C02F58339AB2FBD7
+    https://raw.githubusercontent.com/noobmaster1112/fdroid/master/fdroid/repo?fingerprint=30291C187F8C3B57B9E56C925413CDBA9627F9E4D315951A496CA1CC112FB4BF
 
 You should of course replace the username in the URL. This is the URL your users should add to the F-Droid client. You can also generate a QR code for this URL.
