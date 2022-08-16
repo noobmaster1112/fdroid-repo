@@ -23,10 +23,10 @@ jobs:
       - name: Create basic directory structure
         run: mkdir -p fdroid/repo
 
-      - name: Restore correct mtime
-        run: |
-          sudo apt install git-restore-mtime 
-          git restore-mtime
+#       - name: Restore correct mtime
+#         run: |
+#           sudo apt install git-restore-mtime 
+#           git restore-mtime
 
       - name: Install F-Droid server software
         run: |
