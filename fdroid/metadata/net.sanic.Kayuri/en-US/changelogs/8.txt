@@ -1,6 +1,0 @@
-# v1.2.0
-- Fixed Synopsis Not Showing Properly
-- Server Error Fix Fixed
-- Dark Mode Colour Fixes
-- Added Player Controls
-- Large Devices Player Layout Fix
