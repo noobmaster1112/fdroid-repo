@@ -16,4 +16,3 @@
 
 
 
-### Credit:- [xarantolus](https://github.com/xarantolus/fdroid)
