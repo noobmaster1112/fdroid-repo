@@ -17,8 +17,8 @@ jobs:
         with:
           ifs: true
 
-      #- name: Checkout LFS objects
-      #  run: git lfs checkout
+      - name: Checkout LFS objects
+        run: git lfs checkout
 
       - name: Create basic directory structure
         run: mkdir -p fdroid/repo
