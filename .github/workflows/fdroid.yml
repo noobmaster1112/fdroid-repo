@@ -14,8 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          ifs: true
+#         with:
+#           ifs: true
 
 #       - name: Checkout LFS objects
 #         run: git lfs checkout
