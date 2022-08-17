@@ -58,6 +58,7 @@ def download_releases(app_link, app_category, app_desc, app_name):
                     for chunk in r.iter_content(chunk_size=1024):
                         if chunk:
                             f.write(chunk)
+                    print(f"Package {file_name} downloaded")
     return ' ! -name '.join(r_name)
 
 
