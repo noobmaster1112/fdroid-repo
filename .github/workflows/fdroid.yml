@@ -19,6 +19,12 @@ jobs:
 
 #       - name: Checkout LFS objects
 #         run: git lfs checkout
+      
+
+      - name: Remove File
+        uses: JesseTG/rm@v1.0.3
+        with:
+          path: fdroid/
 
       - name: Create basic directory structure
         run: mkdir -p fdroid/repo
