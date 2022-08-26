@@ -33,7 +33,7 @@ def download_releases(app_link, app_category, app_desc, app_name):
     # create fdroid/repo dir
     create_dir()
     app_link = "/".join(app_link.split("/")[-2:])
-    app_link = "https://api.github.com/repos/" + app_link + "/releases?page=1&per_page=2"
+    app_link = "https://api.github.com/repos/" + app_link + "/releases?page=1&per_page=1"
 
     headers = CaseInsensitiveDict()
     headers["Accept"] = "application/vnd.github+json"
