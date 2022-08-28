@@ -41,4 +41,4 @@ urllib3==1.26.11
 virtualenv==20.16.3
 virtualenv-clone==0.5.7
 webencodings==0.5.1
-multiprocess=0.70.13
+multiprocess==0.70.13
