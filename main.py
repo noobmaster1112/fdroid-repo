@@ -42,7 +42,7 @@ def download_releases(app_link, app_category, app_desc, app_name):
     resp = requests.get(app_link, headers=headers)
     r_name = []
     if resp.json():
-                with Pool() as pool:
+        with Pool() as pool:
             r_name.append(pool.map(download, resp.json()))
     return ' ! -name '.join(' ! -name '.join(i) for i in r_name)
 
