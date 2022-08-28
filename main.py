@@ -3,6 +3,7 @@ from requests.structures import CaseInsensitiveDict
 import subprocess
 import os
 import yaml
+from multiprocess import Pool
 
 
 # parse apps.yaml
@@ -41,25 +42,9 @@ def download_releases(app_link, app_category, app_desc, app_name):
     resp = requests.get(app_link, headers=headers)
     r_name = []
     if resp.json():
-        for i in resp.json():
-            x = len(i["assets"])
-            if x > 2:
-                x = 2
-            for j in range(x):
-                download_link = i["assets"][j]["browser_download_url"]
-                file_name = download_link.split("/")[-1]
-                r_name.append(file_name)
-                file_name = "fdroid/repo/" + file_name
-                r = requests.get(download_link, stream=True)
-                if os.path.exists(file_name):
-                    print(f"{file_name} already exists.....Skipping")
-                    continue
-                with open(file_name, "wb") as f:
-                    for chunk in r.iter_content(chunk_size=1024):
-                        if chunk:
-                            f.write(chunk)
-                    print(f"Package {file_name} downloaded")
-    return ' ! -name '.join(r_name)
+                with Pool() as pool:
+            r_name.append(pool.map(download, resp.json()))
+    return ' ! -name '.join(' ! -name '.join(i) for i in r_name)
 
 
 def create_dir():
@@ -69,6 +54,25 @@ def create_dir():
     except OSError as error:
         print(f"Directory fdroid/repo can not be created\nError: {error}")
 
+
+def download(i, r_name=[]):
+    x = len(i["assets"])
+    if x > 2:
+        x = 2
+    for j in range(x):
+        download_link = i["assets"][j]["browser_download_url"]
+        file_name = download_link.split("/")[-1]
+        r_name.append(file_name)
+        file_name = "fdroid/repo/" + file_name
+        r = requests.get(download_link, stream=True)
+        if os.path.exists(file_name):
+            print(f"{file_name} already exists.....Skipping")
+            continue
+        with open(file_name, "wb") as f:
+            for chunk in r.iter_content(chunk_size=1024):
+                if chunk:
+                    f.write(chunk)
+    return ' ! -name '.join(r_name)
 
 if __name__ == "__main__":
     parse_apps()
