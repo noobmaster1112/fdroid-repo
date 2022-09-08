@@ -62,10 +62,3 @@ Cloudstream3:
 #  categories: 
 #    - Internet
 
-#Cloudstream-3xxx:
- # git: https://github.com/Jacekun/CloudStream-3XXX
- # name: "Cloudstream-3xxx"
- # description: |
-   # Stream and download Movies, TV-Series and Anime.
- # categories: 
-  #  - Internet
