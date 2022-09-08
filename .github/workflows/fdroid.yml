@@ -38,6 +38,7 @@ jobs:
         run: |
          sudo add-apt-repository ppa:fdroid/fdroidserver &&
          sudo apt-get update &&
+         sudo apt-get install apksigner dexdump opensc s3cmd zipalign &&
          sudo apt-get install fdroidserver
 
       - name: Set up repo secrets
