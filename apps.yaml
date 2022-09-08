@@ -54,13 +54,13 @@ Cloudstream3:
   categories: 
     - Internet 
 
-Cloudstream3-pre:
-  git: https://github.com/recloudstream/cloudstream
-  name: "Cloudstream3-pre"
-  description: |
-    Stream and download Movies, TV-Series and Anime.
-  categories: 
-    - Internet
+#Cloudstream3-pre:
+#  git: https://github.com/recloudstream/cloudstream
+#  name: "Cloudstream3-pre"
+#  description: |
+#    Stream and download Movies, TV-Series and Anime.
+#  categories: 
+#    - Internet
 
 #Cloudstream-3xxx:
  # git: https://github.com/Jacekun/CloudStream-3XXX
