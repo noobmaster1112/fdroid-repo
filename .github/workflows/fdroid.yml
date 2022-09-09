@@ -14,13 +14,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-#         with:
-#           ifs: true
+         with:
+           ifs: true
 
-#       - name: Checkout LFS objects
-#         run: git lfs checkout
+       - name: Checkout LFS objects
+         run: git lfs checkout
       
-
       - name: Remove File
         uses: JesseTG/rm@v1.0.3
         with:
@@ -28,11 +27,6 @@ jobs:
 
       - name: Create basic directory structure
         run: mkdir -p fdroid/repo
-
-#       - name: Restore correct mtime
-#         run: |
-#           sudo apt install git-restore-mtime 
-#           git restore-mtime
 
       - name: Install F-Droid server software
         run: |
