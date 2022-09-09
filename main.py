@@ -50,7 +50,6 @@ def download_releases(app_link, app_category, app_desc, app_name):
 def create_dir():
     try:
         os.system('mkdir -p fdroid/repo')
-        print(f"Directory fdroid/repo created successfully")
     except OSError as error:
         print(f"Directory fdroid/repo can not be created\nError: {error}")
 
