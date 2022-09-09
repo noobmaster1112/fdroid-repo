@@ -17,8 +17,8 @@ jobs:
         with:
           ifs: true
 
-       - name: Checkout LFS objects
-         run: git lfs checkout
+      - name: Checkout LFS objects
+        run: git lfs checkout
       
       - name: Remove File
         uses: JesseTG/rm@v1.0.3
