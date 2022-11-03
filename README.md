@@ -4,7 +4,7 @@
 2. Now you can copy the following [link](https://raw.githubusercontent.com/noobmaster1112/fdroid/master/fdroid/repo?fingerprint=30291C187F8C3B57B9E56C925413CDBA9627F9E4D315951A496CA1CC112FB4BF), then add this repository to your F-Droid client:
 
     ```
-    https://raw.githubusercontent.com/noobmaster1112/fdroid/master/fdroid/repo
+    https://raw.githubusercontent.com/noobmaster1112/fdroid-repo/master/fdroid/repo
     ```
     Alternatively, you can also scan this QR code:
 
