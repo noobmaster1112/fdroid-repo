@@ -55,7 +55,6 @@ def create_dir():
 
 
 def download(i, r_name=[]):
-    print(i)
     x = len(i["assets"])
     if x > 2:
         x = 2
