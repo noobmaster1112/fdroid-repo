@@ -6,14 +6,6 @@ saikou:
   categories: 
     - Internet
 
-kayuri:
-  git: https://github.com/Killerpac/Kayuri
-  name: "Kayuri"
-  description: |
-    An Anime Watching App With Better player And Faster Servers
-  categories: 
-    - Internet
-
 kuro:
   git: https://github.com/deceptions/no
   name: "Kuro"
