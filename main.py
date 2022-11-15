@@ -67,6 +67,9 @@ def download(i, r_name=[]):
         if os.path.exists(file_name):
             print(f"{file_name} already exists.....Skipping")
             continue
+        if "apk" not in file_name:
+            print("Not an apk....Skipping")
+            continue
         with open(file_name, "wb") as f:
             for chunk in r.iter_content(chunk_size=1024):
                 if chunk:
