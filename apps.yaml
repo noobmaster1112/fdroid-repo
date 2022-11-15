@@ -45,3 +45,27 @@ Cloudstream3:
     Stream and download Movies, TV-Series and Anime.
   categories: 
     - Internet
+
+Akiyama:
+  git: https://github.com/Fmaldonado6/Akiyama
+  name: "Akiyama"
+  description: |
+    Akiyama is an open source website and android app to watch anime that web scrapes AnimeFLV
+  categories: 
+    - Internet
+
+Animity:
+  git: https://github.com/kl3jvi/animity
+  name: "Animity"
+  description: |
+    An Android app to watch anime on your phone without ads.
+  categories: 
+    - Internet
+
+Zanime:
+  git: https://github.com/linkkader/zanime
+  name: "Zanime"
+  description: |
+    Android app to watch anime vod online for free 
+  categories: 
+    - Internet
