@@ -1,6 +1,7 @@
 saikou:
   git: https://github.com/saikou-app/saikou
   name: "Saikou"
+  SourceCode: "https://github.com/saikou-app/saikou"
   description: |
     An Android Anilist only client, which lets you stream & download Anime & Manga.
   categories: 
@@ -9,6 +10,7 @@ saikou:
 kuro:
   git: https://github.com/deceptions/no
   name: "Kuro"
+  SourceCode: "https://github.com/deceptions/no"
   description: |
     Just another gogoscraper, based on the leaked shiro source code
   categories: 
@@ -17,6 +19,7 @@ kuro:
 aniyomi:
   git: https://github.com/jmir1/aniyomi
   name: "Aniyomi"
+  SourceCode: "https://github.com/jmir1/aniyomi"
   description: |
     Unofficial fork of Tachiyomi for anime
   categories: 
@@ -25,6 +28,7 @@ aniyomi:
 aniyomi-preview:
   git: https://github.com/jmir1/aniyomi-preview
   name: "Aniyomi-preview"
+  SourceCode: "https://github.com/jmir1/aniyomi-preview"
   description: |
     Unofficial fork of Tachiyomi for anime
   categories: 
@@ -33,6 +37,7 @@ aniyomi-preview:
 kazahana:
   git: https://github.com/yukino-org/kazahana
   name: "Kazahana"
+  SourceCode: "https://github.com/yukino-org/kazahana"
   description: |
     An extension-based Anime and Manga client.
   categories: 
@@ -41,6 +46,7 @@ kazahana:
 Cloudstream3:
   git: https://github.com/recloudstream/cloudstream
   name: "Cloudstream3"
+  SourceCode: "https://github.com/recloudstream/cloudstream"
   description: |
     Stream and download Movies, TV-Series and Anime.
   categories: 
@@ -49,6 +55,7 @@ Cloudstream3:
 Akiyama:
   git: https://github.com/Fmaldonado6/Akiyama
   name: "Akiyama"
+  SourceCode: "https://github.com/Fmaldonado6/Akiyama"
   description: |
     Akiyama is an open source website and android app to watch anime that web scrapes AnimeFLV
   categories: 
@@ -57,6 +64,7 @@ Akiyama:
 Animity:
   git: https://github.com/kl3jvi/animity
   name: "Animity"
+  SourceCode: "https://github.com/kl3jvi/animity"
   description: |
     An Android app to watch anime on your phone without ads.
   categories: 
@@ -65,7 +73,8 @@ Animity:
 Zanime:
   git: https://github.com/linkkader/zanime
   name: "Zanime"
+  SourceCode: "https://github.com/linkkader/zanime"
   description: |
-    Android app to watch anime vod online for free 
+    Android app to watch anime vod online for free
   categories: 
     - Internet
