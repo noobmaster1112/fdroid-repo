@@ -69,21 +69,12 @@ Animity:
     An Android app to watch anime on your phone without ads.
   categories: 
     - Internet
-
-Zanime:
-  git: https://github.com/linkkader/zanime
-  name: "Zanime"
-  SourceCode: "https://github.com/linkkader/zanime"
-  description: |
-    Android app to watch anime vod online for free
-  categories: 
-    - Internet
     
-Animiru:
-  git: https://github.com/Quickdesh/Animiru
-  name: "Animiru"
-  SourceCode: "https://github.com/Quickdesh/Animiru"
+Animasi:
+  git: https://github.com/6ixline/Animasi
+  name: "Animasi"
+  SourceCode: "https://github.com/6ixline/Animasi"
   description: |
-    Animiru is an unofficial fork of Aniyomi, which is yet another unofficial fork of the free and open source manga reader Tachiyomi. Animiru strips the manga capabilities of Aniyomi, to make it an anime only app for Android 6.0+
+    React native App for watching anime built with consumet api 
   categories: 
     - Internet
