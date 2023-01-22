@@ -24,15 +24,6 @@ aniyomi:
     Unofficial fork of Tachiyomi for anime
   categories: 
     - Internet
-    
-aniyomi-preview:
-  git: https://github.com/jmir1/aniyomi-preview
-  name: "Aniyomi-preview"
-  SourceCode: "https://github.com/jmir1/aniyomi-preview"
-  description: |
-    Unofficial fork of Tachiyomi for anime
-  categories: 
-    - Internet
 
 kazahana:
   git: https://github.com/yukino-org/kazahana
@@ -40,24 +31,6 @@ kazahana:
   SourceCode: "https://github.com/yukino-org/kazahana"
   description: |
     An extension-based Anime and Manga client.
-  categories: 
-    - Internet
-
-Cloudstream3:
-  git: https://github.com/recloudstream/cloudstream
-  name: "Cloudstream3"
-  SourceCode: "https://github.com/recloudstream/cloudstream"
-  description: |
-    Stream and download Movies, TV-Series and Anime.
-  categories: 
-    - Internet
-
-Akiyama:
-  git: https://github.com/Fmaldonado6/Akiyama
-  name: "Akiyama"
-  SourceCode: "https://github.com/Fmaldonado6/Akiyama"
-  description: |
-    Akiyama is an open source website and android app to watch anime that web scrapes AnimeFLV
   categories: 
     - Internet
 
@@ -76,5 +49,14 @@ Animasi:
   SourceCode: "https://github.com/6ixline/Animasi"
   description: |
     React native App for watching anime built with consumet api 
+  categories: 
+    - Internet
+    
+StreamAble-App:
+  git: https://github.com/TDanks2000/StreamAble-app
+  name: "StreamAble-App"
+  SourceCode: "https://github.com/TDanks2000/StreamAble-app"
+  description: |
+    Watch your favourite anime anywhere!
   categories: 
     - Internet
