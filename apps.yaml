@@ -34,12 +34,12 @@ kazahana:
   categories: 
     - Internet
 
-Animity:
-  git: https://github.com/kl3jvi/animity
-  name: "Animity"
-  SourceCode: "https://github.com/kl3jvi/animity"
+AnimeScrap:
+  git: https://github.com/fakeyatogod/AnimeScrap
+  name: "AnimeScrap"
+  SourceCode: "https://github.com/fakeyatogod/AnimeScrap"
   description: |
-    An Android app to watch anime on your phone without ads.
+    An Anime Streaming Application for Android Devices to watch your favourite anime. 
   categories: 
     - Internet
     
